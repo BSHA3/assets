@@ -1,11 +1,10 @@
 # Design Assets
 
-- Logo
-- Banner
+[BSHA3 Logo (PNG)](bsha3_logo.png)
 
-![BSHA3 Logo](bsha3_logo.png)
+[BSHA3 Logo (SVG)](bsha3_logo.svg)
 
-![BSHA3 Banner](bsha3_banner.png)
+[BSHA3 Banner](bsha3_banner.png)
 
 #### Font
 
@@ -15,7 +14,7 @@ Helvetica
 
 `#F2A900`, `#000000`
 
-#### Logo SVG 
+#### SVG code for logo
 
 ```
 <svg width="204px" height="204px" viewBox="0 0 204 204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
